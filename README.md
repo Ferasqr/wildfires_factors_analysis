@@ -1,10 +1,16 @@
 # Machine Learning Analysis of Factors Influencing Wildfire Distribution
 
-This repository contains the code and documentation for the project titled "Machine Learning Analysis of Factors Influencing Wildfire Distribution," conducted by Alqrinawi Feras Younis Mahmoud. The study aims to investigate and predict wildfire occurrences by analyzing various environmental and human-related factors using geoinformatics and machine learning techniques.
+The study aims to investigate and predict wildfire occurrences by analyzing various environmental and human-related factors using geoinformatics and machine learning techniques.
+
+
+![11](https://github.com/Ferasqr/wildfires_factors_analysis/assets/93034515/1f024317-2276-4aec-9162-1f42fe58ef26)
 
 ## Project Overview
 
 Wildfires are influenced by a complex interplay of environmental conditions and human activities. This project leverages Google Earth Engine (GEE) and Python to collect, preprocess, and analyze a wide range of data, including climatic variables, vegetation indices, topographic features, and human impact indicators. By employing a hexagon tiling-sampling method, the study extracts data points from specific global regions to enhance prediction accuracy.
+
+
+![13](https://github.com/Ferasqr/wildfires_factors_analysis/assets/93034515/fcbc5c34-182b-45e6-89dd-2e42f27197ac)
 
 ## Key Features
 
